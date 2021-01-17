@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: "import java.util.Scanner;\n\npublic class Main {\n\n\tpublic static void\
+    \ main(String[] args) {\n        // call the method here\n\t}\n\n    // Do not\
+    \ change code below   \n    public static void countAreaOfParallelogram(int b,\
+    \ int h) {\n\t\tSystem.out.println(b * h);\n\t}\n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10981
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10981">JetBrains
+    Academy</a></html>
+  time: Tue, 03 Nov 2020 12:54:15 UTC
+record: -1
